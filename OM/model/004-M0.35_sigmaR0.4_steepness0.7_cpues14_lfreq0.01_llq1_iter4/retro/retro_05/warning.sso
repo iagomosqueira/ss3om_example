@@ -1,0 +1,94 @@
+#V3.30.16.00;_2020_09_03;_safe;_Stock_Synthesis_by_Richard_Methot_(NOAA)_using_ADMB_12.2
+#Stock Synthesis (SS) is a work of the U.S. Government and is not subject to copyright protection in the United States.
+#Foreign copyrights may apply. See copyright.txt for more information.
+Thu Aug  5 05:40:04 2021
+
+2 catch records for yr, seas, fleet 1982 1 6. SS has accumulated catches, total= 57
+2 catch records for yr, seas, fleet 1982 4 6. SS has accumulated catches, total= 60
+2 catch records for yr, seas, fleet 1983 1 6. SS has accumulated catches, total= 62
+2 catch records for yr, seas, fleet 1983 4 6. SS has accumulated catches, total= 65
+2 catch records for yr, seas, fleet 1985 1 6. SS has accumulated catches, total= 349
+2 catch records for yr, seas, fleet 1985 4 6. SS has accumulated catches, total= 365
+2 catch records for yr, seas, fleet 1986 4 6. SS has accumulated catches, total= 18175
+2 catch records for yr, seas, fleet 1987 1 5. SS has accumulated catches, total= 96
+2 catch records for yr, seas, fleet 1987 1 6. SS has accumulated catches, total= 7983
+2 catch records for yr, seas, fleet 1987 4 5. SS has accumulated catches, total= 158
+2 catch records for yr, seas, fleet 1987 4 6. SS has accumulated catches, total= 5789
+2 catch records for yr, seas, fleet 1988 4 6. SS has accumulated catches, total= 7013
+2 catch records for yr, seas, fleet 1989 1 5. SS has accumulated catches, total= 804
+2 catch records for yr, seas, fleet 1989 4 6. SS has accumulated catches, total= 5163
+2 catch records for yr, seas, fleet 1990 2 5. SS has accumulated catches, total= 2179
+2 catch records for yr, seas, fleet 1990 4 5. SS has accumulated catches, total= 1810
+2 catch records for yr, seas, fleet 1990 4 6. SS has accumulated catches, total= 4261
+2 catch records for yr, seas, fleet 1991 1 5. SS has accumulated catches, total= 4024
+2 catch records for yr, seas, fleet 1991 1 6. SS has accumulated catches, total= 4922
+2 catch records for yr, seas, fleet 1992 1 5. SS has accumulated catches, total= 825
+2 catch records for yr, seas, fleet 1992 1 6. SS has accumulated catches, total= 786
+2 catch records for yr, seas, fleet 1992 2 5. SS has accumulated catches, total= 112
+2 catch records for yr, seas, fleet 1992 4 5. SS has accumulated catches, total= 263
+2 catch records for yr, seas, fleet 1992 4 6. SS has accumulated catches, total= 641
+Forecast=0 or -1, so rest of forecast file will not be read and can be omitted;
+A one year forecast using recent F will be done automatically
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2002 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2002 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2003 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2003 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2003 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2003 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2004 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2004 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2004 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2005 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2005 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2005 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2005 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2006 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2006 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2006 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2007 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2007 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2007 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2007 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2008 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2008 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2008 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2008 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2009 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2009 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2009 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2009 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2010 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2010 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2010 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2010 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2011 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2011 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2011 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2011 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2012 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2012 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2012 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2012 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2013 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2013 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2013 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2013 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2014 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2014 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2014 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2014 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2015 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2015 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2015 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2015 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2016 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2016 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2016 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2016 4 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2017 1 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2017 2 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2017 3 7
+1 1warn in first call:  Observation exists, but nil selected fish for year, seas, fleet 2017 4 7
+ Main recdev biasadj is >2 times ratio of rmse to sigmaR
+Reminder: Number of lamdas !=0.0 and !=1.0:  5
+ N warnings: 87

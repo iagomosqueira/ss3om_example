@@ -55,7 +55,8 @@ retros <- foreach(x=setNames(dirs, nm=seq(length(dirs))),
   return(SSsummarize(rretro, verbose=FALSE))
 }
 
-# TODO index.fit to be loaded in loadOMS, needed for index.q, onky for indices to be used by MP
+# TODO index.fit to be loaded in loadOMS, needed for index.q,
+# only for indices to be used by MP
 
 fits <- lapply(full$output, function(x) ss3om:::ss3index.fit(data.table(x$cpue),
   setNames(nm=names(full$indices)[c(1,3)])))

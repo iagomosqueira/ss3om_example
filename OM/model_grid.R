@@ -7,7 +7,7 @@
 # Distributed under the terms of the EUPL-1.2
 
 
-library(ioalbmse)
+library(ss3om)
 
 source("utilities.R")
 
@@ -27,14 +27,20 @@ full <- list(
 
 fullgrid <- expand.grid(full, stringsAsFactors = FALSE)
 
+# MAKE small grid for demonstration
+
+smallgrid <- fullgrid[1:8,]
+
 
 # --- SETUP
 
-grid <- setioalbgrid(fullgrid, dir = "model/full",
+grid <- setioalbgrid(smallgrid, dir = "model",
   base = "data/PSLFwt/CPUE_SouthWest", name = "abt", write=TRUE)
 
-lapply(file.path("model/full", grid$id), prepareRetro)
+lapply(file.path("model", grid$id), prepareRetro)
 
-save(grid, file="model/full/grid.Rdata")
+save(grid, file="model/grid.Rdata")
+
+# COMMAND to run using GNU parallel
 
 # ls | parallel -j44 --bar --progress '(cd {}; ss_3.30.16 && packss3run; cd retro; for d in ./*/ ; do (cd "$d" && ss_3.30.16 && packss3run); done)'

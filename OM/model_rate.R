@@ -8,6 +8,7 @@
 
 library(r4ss)
 library(ss3diags)
+library(ss3om)
 
 library(FLasher)
 
